@@ -1,4 +1,4 @@
-package ru.my_java;
+package ru.my_java.array_creator;
 
 import java.util.Random;
 
